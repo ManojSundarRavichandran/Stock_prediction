@@ -1,0 +1,7 @@
+README.md
+setup.py
+Stock_prediction_deustchebank.egg-info/PKG-INFO
+Stock_prediction_deustchebank.egg-info/SOURCES.txt
+Stock_prediction_deustchebank.egg-info/dependency_links.txt
+Stock_prediction_deustchebank.egg-info/requires.txt
+Stock_prediction_deustchebank.egg-info/top_level.txt
