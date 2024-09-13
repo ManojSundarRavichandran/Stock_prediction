@@ -1,4 +1,5 @@
 import sys   #always have information 
+from src.logger import logging 
 
 def error_message_details(error,error_detail:sys): #error -> message we get      error_detail -> present in the sys 
 
